@@ -1,0 +1,4 @@
+id,titulo,tipo_documento,caso_id,ingreso_id,fecha_documento,archivo_url,resumen
+DOC-001,Cédula de notificación ejemplo,Cédula judicial,CAS-001,ING-001,,,
+DOC-002,Carta documento recibida,Carta documento,CAS-002,ING-002,,,
+DOC-003,Mensaje inicial cliente,Consulta cliente,CAS-003,ING-003,,,
