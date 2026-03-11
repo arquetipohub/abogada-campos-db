@@ -1,0 +1,4 @@
+id,asunto_ingreso,tipo_ingreso,canal,fecha_ingreso,cliente_id,organismo_id,expediente_cuij,plazo_vencimiento,urgencia,accion_requerida,responsable,estado_ingreso,documento_url,observaciones
+ING-001,Cédula de notificación ejemplo,Cédula judicial,SISFE,,CLI-001,ORG-001,,,Crítico,,,Pendiente de análisis,,
+ING-002,Carta documento recibida,Carta documento,Correo Argentino,,CLI-001,ORG-001,,,Alta,,,Pendiente de análisis,,
+ING-003,Consulta inicial cliente,Consulta cliente,WhatsApp,,CLI-001,,,Media,,,Pendiente de análisis,,
