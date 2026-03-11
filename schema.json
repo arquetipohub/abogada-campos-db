@@ -1,0 +1,80 @@
+{
+  "clientes": [
+    "id",
+    "nombre",
+    "tipo_cliente",
+    "telefono",
+    "email",
+    "localidad",
+    "zona",
+    "actividad",
+    "canal_ingreso",
+    "quien_derivo",
+    "notas"
+  ],
+  "organismos_prestadores": [
+    "id",
+    "nombre",
+    "tipo",
+    "jurisdiccion",
+    "contacto",
+    "notas"
+  ],
+  "bandeja_ingreso": [
+    "id",
+    "asunto_ingreso",
+    "tipo_ingreso",
+    "canal",
+    "fecha_ingreso",
+    "cliente_id",
+    "organismo_id",
+    "expediente_cuij",
+    "plazo_vencimiento",
+    "urgencia",
+    "accion_requerida",
+    "responsable",
+    "estado_ingreso",
+    "documento_url",
+    "observaciones"
+  ],
+  "casos": [
+    "id",
+    "nombre_caso",
+    "caratula",
+    "cuij",
+    "cliente_id",
+    "organismo_id",
+    "ingreso_id",
+    "tipo_caso",
+    "origen_ingreso",
+    "etapa_conflicto",
+    "estado",
+    "prioridad",
+    "vencimiento",
+    "proxima_accion",
+    "responsable",
+    "ingreso_tardio",
+    "forzar_urgencia",
+    "notas"
+  ],
+  "documentos": [
+    "id",
+    "titulo",
+    "tipo_documento",
+    "caso_id",
+    "ingreso_id",
+    "fecha_documento",
+    "archivo_url",
+    "resumen"
+  ],
+  "tramites_presentaciones": [
+    "id",
+    "caso_id",
+    "organismo_id",
+    "tipo_tramite",
+    "fecha",
+    "resultado",
+    "detalle",
+    "proximo_paso"
+  ]
+}
