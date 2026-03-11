@@ -1,0 +1,4 @@
+id,caso_id,organismo_id,tipo_tramite,fecha,resultado,detalle,proximo_paso
+TRM-001,CAS-001,ORG-001,Presentación judicial,,,,
+TRM-002,CAS-002,ORG-001,Reclamo administrativo,,,,
+TRM-003,CAS-003,,Consulta inicial,,,,
