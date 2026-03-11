@@ -1,0 +1,4 @@
+id,nombre_caso,caratula,cuij,cliente_id,organismo_id,ingreso_id,tipo_caso,origen_ingreso,etapa_conflicto,estado,prioridad,vencimiento,proxima_accion,responsable,ingreso_tardio,forzar_urgencia,notas
+CAS-001,Caso ejemplo,,,CLI-001,ORG-001,ING-001,Judicial,Cédula judicial,Juicio,En curso,Alta,,,,FALSE,FALSE,
+CAS-002,Reclamo administrativo ejemplo,,,CLI-001,ORG-001,ING-002,Administrativo,Carta documento,Negociación,En curso,Media,,,,FALSE,FALSE,
+CAS-003,Consulta cliente ejemplo,,,CLI-001,,ING-003,Extrajudicial,Consulta cliente,Negociación,Nuevo,Baja,,,,FALSE,FALSE,
