@@ -1,0 +1,2 @@
+id,nombre,tipo_cliente,telefono,email,localidad,zona,actividad,canal_ingreso,quien_derivo,notas
+CLI-001,Ejemplo Cliente,Productor,,,,,Ganadería,Consulta directa,,
